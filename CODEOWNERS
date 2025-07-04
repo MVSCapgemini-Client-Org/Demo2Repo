@@ -1,0 +1,9 @@
+#
+# pattern:
+#
+#file/directory                    user
+#
+
+*.js                       @Srinivas-hj
+doc/*.md                   @Sowmya-mvs
+*.txt                      @Sowmya-mvs
