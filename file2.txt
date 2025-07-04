@@ -1,1 +1,1 @@
-this is file2  main creating and resolving conflict from VS main
+this is file2 new branch
