@@ -1,1 +1,1 @@
-this is file2
+this is file2  main creating and resolving conflict from VS
